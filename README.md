@@ -6,7 +6,8 @@
 
 
 ## 🌐 Live Demo
-[Visit Live Site]((https://assigment-12-client.web.app/))
+[Visit Live Site](https://assigment-12-client.web.app/)
+
 
 
 
@@ -36,11 +37,14 @@
 
 
 
-Admin email:noha@gmail.com
+## 🔐 Admin Access (for demo)
 
-Password:123456Qa@
+Use the following demo credentials to explore admin features:
 
-Admin Name:Mohanie
+- **Email:** demo@example.com  
+- **Password:** demo123
+
+
 
 ## npm packages
 
@@ -52,28 +56,20 @@ react-countup
  
  react-hook-form
  
-## Run Locally
+## ⚙️ Installation & Setup
 
-Clone the project
-
-```bash
-  git clone https://github.com/NahiyaNasir/The-Intercept.git
-```
-
-Go to the project directory
+To run this project locally:
 
 ```bash
-  cd The Intercept
-```
+# 1. Clone the repository
+git clone  https://github.com/NahiyaNasir/The-Intercept
+cd the-intercept
 
-Install dependencies
+# 2. Install dependencies
+npm install
 
-```bash
-  npm install
-```
-
-Start the server
-
+# 3. Start the development server
+npm start
 ```bash
   npm run start
 ```
