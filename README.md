@@ -55,7 +55,7 @@ Use the following demo credentials to explore admin features:
  
  -`react-select`
  
-- `react-hook-form`
+-`react-hook-form`
  
 ## ⚙️ Installation & Setup
 
