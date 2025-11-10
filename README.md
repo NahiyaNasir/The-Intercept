@@ -46,15 +46,16 @@ Use the following demo credentials to explore admin features:
 
 
 
-## npm packages
+####  **NPM Packages**
+## 📦 NPM Packages Used
 
-react-countup
+-`react-countup`
 
- react-google-chart
+ -`react-google-chart`
  
- react-select
+ -`react-select`
  
- react-hook-form
+- `react-hook-form`
  
 ## ⚙️ Installation & Setup
 
