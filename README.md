@@ -6,7 +6,7 @@
 
 
 ## 🌐 Live Demo
-[Visit Live Site]([(https://assigment-12-client.web.app/)])
+[Visit Live Site]((https://assigment-12-client.web.app/))
 
 
 
